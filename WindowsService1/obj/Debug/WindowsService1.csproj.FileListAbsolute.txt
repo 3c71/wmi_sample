@@ -1,0 +1,13 @@
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.manifest
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.application
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe.manifest
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.application
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.MDMService.resources
+C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources

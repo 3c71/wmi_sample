@@ -1,0 +1,544 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Access is denied
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Access is denied
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Access is denied
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+An exception occurred during the Install phase.
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified domain either does not exist or could not be contacted
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+An exception occurred during the Install phase.
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\AppData\Local\Apps\2.0\A3XAVM1X.8Y7\7LDL4DXZ.NLV\wind..tion_2231957712673020_0001.0000_4f0ec6627e6b3e4b\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at C:\Users\Cedric\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
