@@ -288,7 +288,13 @@ namespace WindowsService1
 
                     //  TODO: Untested...
                     //
-                    System.Diagnostics.Process.Start("CMD.exe", "shutdown /r");
+                    System.Diagnostics.Process process = new System.Diagnostics.Process();
+                    System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
+                    startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
+                    startInfo.FileName = "cmd.exe";
+                    startInfo.Arguments = "/C shutdown /r";
+                    process.StartInfo = startInfo;
+                    process.Start();
 
                     return "ok";
             }
